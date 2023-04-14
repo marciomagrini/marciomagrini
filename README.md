@@ -4,7 +4,13 @@
 
 🔭 I’m currently working on my PhD thesis, which is about Leukemia/DNA mutation/Chromosomes 3D organization. There is a lot of programming involved.
 
-🌱 I’m currently learning Python, Pandas, Numpy, SQL, Statistics and Machine Learning on Ada. I've been working with Bash for quite some time now.
+🌱 I’m currently learning Python, Pandas, Numpy, SQL, Statistics and Machine Learning on Ada. 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
+
+⚡ I've been working with Bash and Git for quite some time now.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 📫 How to reach me:
 
@@ -14,7 +20,14 @@
 <a href="https://www.linkedin.com/in/marciomagrini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/marciomagrini/marciomagrini/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
+
+
 
 <!--
 **marciomagrini/marciomagrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
