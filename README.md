@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my PhD thesis, which is about Leukemia/DNA mutation/Chromosomes 3D organization. There is a lot of programming involved.
 
-🌱 I’m currently learning Python, Pandas, Numpy, SQL, Statistics and Machine Learning on Ada. 
+🌱 I’m currently learning Python, Pandas, Numpy, SQL, Statistics and Machine Learning. 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
 
